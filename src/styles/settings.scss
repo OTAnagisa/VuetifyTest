@@ -6,5 +6,6 @@
 
 // https://vuetifyjs.com/features/sass-variables/`
 @use 'vuetify/settings' with (
-  $alert-title-line-height: 1.6,
+  // $alert-title-line-height: 1.6,
+  $alert-title-line-height: 1.6rem,
 );
